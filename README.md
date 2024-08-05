@@ -1,3 +1,3 @@
 # m10-hw13-torna-gaby
-h1 Image overlays h1
+# Image overlays
 I used an image overlay cardoption
